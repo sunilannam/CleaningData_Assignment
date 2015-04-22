@@ -31,11 +31,17 @@ The script, `run_analysis.R`, requires the original data set available from UC I
 # Script Operation
 
 Following goals were set for cleaning the raw data:
+
 1. Merge the trainign and test data sets to create one data set
+
 2. Extract only the measurements the mean and standard deviation for each measurement.
+
 3. Uses descriptive activity names to name the activities in the data set
+
 4. Appropriately labels the data set with descriptive variable names.
+
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
+
 
 The basic script operation combines the data from the training and test data
 sets by:
