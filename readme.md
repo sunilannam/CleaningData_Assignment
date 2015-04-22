@@ -2,8 +2,11 @@
 # Coursera Project for Getting and Cleaning Data Course Project
 
 This repository contains three files:
+
 1. README.md
+
 2. Codebook.md
+
 3. run_analysis.R
 
 ## Overview
