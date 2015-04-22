@@ -2,9 +2,13 @@
 
 ## Overview
 This codebook describes
+
 	* list of variables and description
+	
 	* the data
+	
 	* transformation performed on the raw data
+	
 	
 ## List of variables
 
