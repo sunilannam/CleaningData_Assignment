@@ -611,4 +611,4 @@ The output data is combined data from test and train data sets, with descriptive
 Transformation is performed to create tidy data with,
  * Each measured variable in one column
  * Each observation in a different row
- * There is one table for each kind of variable
+ * There is one table for each kind of variable (i.e. any variable is not spread across multiple tables)
